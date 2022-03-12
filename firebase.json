@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "target": "room",
+    "public": "dist",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
